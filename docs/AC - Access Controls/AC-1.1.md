@@ -22,5 +22,5 @@ Automatically complaint
 #### Assessment Procedures
 The organization being inspected/assessed is automatically complainy with this CCI because they are covered at the DoD level. DoD has defeind the personnel or roles as all personnel.
 
-#### AC-1.1 Control Answer
+#### AC-1.1 Control Response
 Automatically Complaint
