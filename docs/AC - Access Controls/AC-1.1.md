@@ -7,7 +7,7 @@ has_children: false
 nav_order: 2
 
 ---
-# Navigation Structure
+# Access Controls
 {: .no_toc }
 
 ## Table of contents
