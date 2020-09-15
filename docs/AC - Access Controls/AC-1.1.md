@@ -41,7 +41,7 @@ The organization being inspected/assessed is automatically complainy with this C
 {: .no_toc }
 Automatically Complaint
 
-[Network Diagram](https://ais.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Network Diagram Evidence](https://ais.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## AC-1.2 
 
@@ -67,4 +67,4 @@ The organization being inspected/assessed is automatically complainy with this C
 {: .no_toc }
 Automatically Complaint
 
-[Network Diagram](https://ais.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Access Control Policies & Procedures](https://ais.com){: .btn .fs-5 .mb-4 .mb-md-0 }
