@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Markdown kitchen sink
-nav_order: 99
+title: 404
+nav_exclude: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -39,7 +39,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4 `with code not transformed`
+#### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -139,37 +139,6 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-#### Multiple description terms and values
-
-Term
-: Brief description of Term
-
-Longer Term
-: Longer description of Term,
-  possibly more than one line
-
-Term
-: First description of Term,
-  possibly more than one line
-
-: Second description of Term,
-  possibly more than one line
-
-Term1
-Term2
-: Single description of Term1 and Term2,
-  possibly more than one line
-
-Term1
-Term2
-: First description of Term1 and Term2,
-  possibly more than one line
-
-: Second description of Term1 and Term2,
-  possibly more than one line
-  
-### More code
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
