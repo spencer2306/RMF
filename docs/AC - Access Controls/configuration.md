@@ -5,20 +5,20 @@ nav_exclude: true
 ---
 
 # Configuration
-{: .no_toc }
 
+{: .no_toc }
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
@@ -86,7 +86,7 @@ heading_anchors: true
 ## Footer content
 
 ```yaml
-# Footer content 
+# Footer content
 # appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
@@ -114,6 +114,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 ```
+
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
