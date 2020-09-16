@@ -18,7 +18,3 @@ Welcome to AIS IA Risk Management Controls and ATO Process
 ---
 
 ## Getting started
-
-```ruby
-gem "just-the-docs"
-```
